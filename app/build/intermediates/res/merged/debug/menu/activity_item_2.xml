@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/C:/Users/Bob%20Lull/AndroidStudioProjects/ch09_ex4_NewsReader_new-master/app/src/main/res/menu/activity_item_2.xml -->
